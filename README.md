@@ -1,6 +1,5 @@
-# 👋 Hi there, I’m Chani Madmon
+# 👋 Hi there, I’m Chana
 
-Welcome to my GitHub profile! 🚀  
 I’m a software developer with a strong interest in full-stack development and building practical web applications.
 
 Here you’ll find a collection of personal projects, exercises, and learning repositories that reflect my growth and experience in software development.
@@ -9,10 +8,10 @@ Here you’ll find a collection of personal projects, exercises, and learning re
 
 ## 🧰 Tech Stack
 
-- **Languages:** JavaScript, C#  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** REST APIs  
-- **Tools & Concepts:** Git, GitHub, basic system design
+- **Languages:** JavaScript, C#, Python, Java, C, C++, TypeScript  
+- **Frontend:** React, Angular, HTML, CSS 
+- **Backend:** .NET Core, Node.js, REST APIs  
+- **Tools & Concepts:** Git, GitHub, basic system desig,Postman, Docker, AWS
 
 ---
 
@@ -26,12 +25,12 @@ Features include:
 - Admin / product management  
 - API-based business logic  
 
-*(Forked project – worked on extending and improving functionality)*
+*(Forked project – worked with my team member)*
 
 ---
 
 ### 📁 My-projects
-A collection of small JavaScript projects and exercises used for practice and learning core concepts.
+A collection of small studies full-stack projects and exercises used for practice and learning core concepts.
 
 ---
 
@@ -46,7 +45,7 @@ Another task manager (To-Do) project with a simple and clean interface.
 ---
 
 ### 🏥 Hospital-Project
-A C# project simulating a hospital management system, created to practice backend logic and object-oriented programming.
+A C# .NET project simulating a hospital management system, created to practice backend logic and object-oriented programming.
 
 ---
 
