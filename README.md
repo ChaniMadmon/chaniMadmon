@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Chana
+# 👋 Hi, I’m Chana
 
 I’m a software developer with a strong interest in full-stack development and building practical web applications.
 
